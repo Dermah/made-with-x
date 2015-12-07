@@ -16,5 +16,6 @@ var X = [
 let things = document.getElementsByClassName('made-with-x');
 
 Array.prototype.forEach.call(things, function(thing) {
-	thing.innerHTML = '&#x' + X[0].emoji_unicode;
+	let pick = Math.floor((Math.random() * (X.length)));
+	thing.innerHTML = '&#x' + X[pick].emoji_unicode;
 })
