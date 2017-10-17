@@ -1,0 +1,25 @@
+{
+  "name": "made-with-x",
+  "version": "0.1.0",
+  "description": "Made with literally anything but love",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dermah/made-with-x.git"
+  },
+  "keywords": [
+    "emoji",
+    "love",
+    "hate",
+    "banana"
+  ],
+  "author": "Sputnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dermah/made-with-x/issues"
+  },
+  "homepage": "https://github.com/Dermah/made-with-x#readme"
+}
