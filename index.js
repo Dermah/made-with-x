@@ -49,6 +49,18 @@ var X = [
     emoji_unicode: '1F308',
     emoji: '🌈'
   },
+  {
+    name: 'bread',
+    alt_text: 'bread',
+    emoji_unicode: '1F35E',
+    emoji: '🍞'
+  },
+  {
+    name: 'baguette',
+    alt_text: 'baguette',
+    emoji_unicode: '1F956',
+    emoji: '🥖'
+  },
 ];
 
 (function () {
